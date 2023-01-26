@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Welcome to Livia's github profile👋
 
 <div align="center">
   <a href="https://github.com/lihqrn">
