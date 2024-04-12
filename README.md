@@ -6,9 +6,15 @@ Estudante de Engenharia de Software
 
 Uma entusiasta do desenvolvimento de software e estudante dedicada de engenharia de software. 
 Atualmente, estou imersa no universo do desenvolvimento frontend e desenvolvimento C#, buscando aprimorar minhas habilidades e conhecimentos nessas linguagens poderosas
-
-
 ##
+
+
+<div align="center">
+  <a href="https://github.com/lihqrn">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lihqrn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihqrn&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Livi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
