@@ -39,16 +39,6 @@
 
 ---
 
-### 📫 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/l%C3%ADvia-quirino-24018a227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/lih.qrn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
 
 ---
 
