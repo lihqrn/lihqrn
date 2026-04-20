@@ -19,14 +19,19 @@
 
 ### 🌟 Tecnologias que estudo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png">
-  <img align="center" alt="Django" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png">
-  <img align="center" alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" height="40" alt="flask logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</p>
 
+---
+
+<a href="https://www.instagram.com/lih.qrn?igsh=MTVjZGV1ODF0Nm9hMQ==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 ---
 
@@ -39,7 +44,4 @@
 
 ---
 
-
----
-
-✨ _“Não importa a velocidade, importa a constância.”_
+✨ _"Não importa a velocidade, importa a constância."_
